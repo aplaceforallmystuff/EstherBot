@@ -2,10 +2,11 @@
     "HELP": "Here is a list of commands that you can currently give me.",
     "BOT": "Hi there!\nI’m the personal bot of Jim, a tech entrepreneur in London.\n![jim](https://github.com/aplaceforallmystuff/EstherBot/blob/master/img/jim.jpg)\nWant to know more about bots or learn about Jim? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Jim](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set JimBot up! Do you want to tell Jim that you're talking to her bot? %[Tell him](postback:twitter)",
-    "TELL HIM": "Let's tweet @ Jim so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Jim](http://bit.ly/estherbot-tweet)",
+    "TELL HIM": "Let's tweet @ Jim so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Jim](http://bit.ly/estherbot-tweet)",
     "ABOUT": "This is an attempt at a real time chatbot, forked from EstherBot.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, JimBot is back.",
+    "SHOW ME WHAT YOU GOT": "Aww yeah, gettin' schwifty in here!",
     "RANDOM_FACT": "derp."
 }
