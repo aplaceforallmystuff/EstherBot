@@ -1,7 +1,7 @@
 {
     "HELP": "Here is a list of commands that you can currently give me: BOT, HELLO, SHOW ME WHAT YOU GOT",
     "BOOT": "..:::: BOOT SEQUENCE STARTING ::::..",
-    "BOT": "Hi there!\nI’m the personal bot of Jim, a tech entrepreneur in London.\n![jim](https://raw.githubusercontent.com/aplaceforallmystuff/EstherBot/master/img/jim.jpg)\nWant to know more about bots or learn about Jim? %[I'm here for the bot](postback:HERE FOR THE BOT) %[Learn about Jim](postback:LEARN) %[One random fact!](postback:RANDOM)",
+    "BOT": "Hi there!\nI’m the personal bot of Jim, a tech entrepreneur in London.\n![jim](https://raw.githubusercontent.com/aplaceforallmystuff/EstherBot/master/img/jim.jpg)\nWould you like to know more? %[What is this...thing?](postback:ABOUT) %[Who is Jim?](postback:LEARN) %[Say something stupid.](postback:RANDOM)",
     "HELLO": "Hey, I'm so glad you set JimBot up! Do you want to tell Jim that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Jim so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Jim](http://bit.ly/estherbot-tweet)",
     "ABOUT": "This is an attempt at a real time chatbot, forked from EstherBot.",
